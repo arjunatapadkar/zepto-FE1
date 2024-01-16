@@ -25,6 +25,14 @@ function App() {
     setIsInputFocused(true);
   };
 
+  const handleKeyDown = (e) => {
+    if (e.key === 'Backspace' && searchTerm === '' && chips.length > 0) {
+      
+      const lastChip = chips[chips.length - 1];
+      handleChipRemove(lastChip);
+    }
+  };
+
 
   const filteredItems = allItems.filter(
     (item) =>
@@ -54,6 +62,7 @@ function App() {
           onChange={handleInputChange}
           onFocus={handleInputFocus}
           // onBlur={() =>setIsInputFocused(false)}
+          onKeyDown={handleKeyDown}
           placeholder="Add new user"
           className=' border-none outline-none'
           />
