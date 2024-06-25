@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+![study](https://github.com/arjunatapadkar/zepto-FE1/assets/99797400/debf24fd-cf10-4e35-88c3-16ed95e06211)
+
+![Screenshot (178)](https://github.com/arjunatapadkar/zepto-FE1/assets/99797400/918af3ac-6bdb-4446-91b7-6c6bd6a65bae)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
