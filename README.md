@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+
+
+![Screenshot (179)](https://github.com/arjunatapadkar/zepto-FE1/assets/99797400/185256d5-fdeb-43a8-b347-f27a0f845859)
+
+
 ![study](https://github.com/arjunatapadkar/zepto-FE1/assets/99797400/debf24fd-cf10-4e35-88c3-16ed95e06211)
 
 ![Screenshot (178)](https://github.com/arjunatapadkar/zepto-FE1/assets/99797400/918af3ac-6bdb-4446-91b7-6c6bd6a65bae)
